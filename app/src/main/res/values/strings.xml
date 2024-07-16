@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SearchBookApp</string>
+
+    <string name="publication_date">출판 날짜 : %s</string>
+    <string name="search_book_placeholder">책 제목</string>
+    <string name="input_validation_message">두 글자 이상 입력해주세요</string>
+    <string name="search_book">책 검색하기</string>
+    <string name="favorite_book">내가 즐겨찾는 책</string>
+    <string name="detail_book_title">상세 내용</string>
+    <string name="add_favorite_msg">즐겨찾기에 추가하였습니다</string>
+    <string name="delete_favorite_msg">즐겨찾기에서 삭제하였습니다</string>
+    <string name="no_book">검색된 책이 없어요</string>
+    <string name="no_favorite_book">즐겨찾기에 추가된 책이 없어요</string>
+    <string name="book_price">%d원</string>
+    <string name="book_publisher">출판 : %s</string>
+</resources>
