@@ -7,6 +7,6 @@ kakao.api.token="{KAKAO_API_TOKEN}
 ```
 
 # 기능, 사용 기술 등 #
-기능 : 책 검색, 즐겨찾기
-사용기술 : Compose, Coroutine, Hilt, Room, Paging3, Compose Stable, Flow, Jetpack
-API : https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book
+- 기능 : 책 검색, 즐겨찾기
+- 사용기술 : Compose, Coroutine, Hilt, Room, Paging3, Compose Stable, Flow, Jetpack
+- API : https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book
